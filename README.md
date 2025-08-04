@@ -18,6 +18,6 @@ Your specific task is to design, build, and evaluate a machine learning model th
 automatically classify a road or bridge construction project into its correct 
 PMGSY_SCHEME based on its physical and financial characteristics. 
 
-Dataset trained model is available
+Dataset is available in this repository itself
 
 # Note: Run the ipynb file on ibm cloud for seamless execution
